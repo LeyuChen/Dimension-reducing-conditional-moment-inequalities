@@ -19,6 +19,8 @@
      Compared to the test based on moment inequalities conditional on all covariates, this formulation yields higher test power 
      but may incur higher computational cost.
      
+     The program was written and tested in Gauss 9.0.
+     
 */
 
 new;
