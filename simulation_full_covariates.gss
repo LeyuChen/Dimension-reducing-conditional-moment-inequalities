@@ -16,6 +16,8 @@
      the vector b satisfies the identifying conditional moment inequalities of this model. The CLR test implementation 
      is based on moment inequalities conditional on all covariates. This CLR test formulation is computationally simpler
      yet it suffers more from the curse of dimensionality and thus has lower test power. 
+     
+     The program was written and tested in Gauss 9.0.
 */
 
 new;
